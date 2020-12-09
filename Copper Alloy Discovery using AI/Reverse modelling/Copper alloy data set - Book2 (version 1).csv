@@ -1,0 +1,645 @@
+Name,Form,Temper,Temper Code,Tensile Strength,Thermal ConductivityBtu/ sq ft/ ft hr/ °F at 68°F,Cu(1.2.3,Pb,Zn,Fe,P,Ag,As,O,Sb,Te,Ni,Bi,Cd,sn,S,Mn,Zr,Mg,Co,Al
+C10100 Oxygen-Free-Electronic,Flat Products,1/2 Hard,H02,42  ,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,1/4 Hard,H01,38,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,1/4 Hard,H01,38,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,1/8 Hard,H00,36,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,1/8 Hard,H00,36,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,As Hot Rolled,M20,34,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,As Hot Rolled,M20,32,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,Extra Spring,H10,57,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,Hard,H04,50,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,Nominal Grain Size 0.025 mm,OS025,34,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,Nominal Grain Size 0.050 mm,OS050,32,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Flat Products,Spring,H08,55,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Rod,As Hot Rolled,M20,32,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Rod,Hard,H04,55,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Rod,Hard,H04,45,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Rod,Hard,H04,48,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Rod,Nominal Grain Size 0.050 mm,OS050,32,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Shapes,As Hot Extruded,M30,32,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Shapes,As Hot Rolled,M20,32,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Shapes,Hard,H04,40,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Shapes,Nominal Grain Size 0.050 mm,OS050,32,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Tube,Hard Drawn,H80,55,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Tube,"Light Drawn, Light Cold Rolled",H55,40,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Tube,Nominal Grain Size 0.025 mm,OS025,34,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Tube,Nominal Grain Size 0.050 mm,OS050,32,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Wire,Hard,H04,55,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Wire,Nominal Grain Size 0.050 mm,OS050,35,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10100 Oxygen-Free-Electronic,Wire,Spring,H08,66,226,99.99,0.0005,0.0001,0.001,0.0003,0.0025,0.0005,0.0005,0.0004,0.0002,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,1/2 Hard,H02,42,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,1/4 Hard,H01,38,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,1/4 Hard,H01,38,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,1/8 Hard,H00,36,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,1/8 Hard,H00,36,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,As Hot Rolled,M20,34,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,As Hot Rolled,M20,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,Extra Spring,H10,57,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,Hard,H04,50,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,Hard,H04,50,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,Hard,H04,45,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,Nominal Grain Size 0.025 mm,OS025,34,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,Nominal Grain Size 0.050 mm,OS050,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,Nominal Grain Size 0.050 mm,OS050,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Flat Products,Spring,H08,55,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Rod,As Hot Rolled,M20,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Rod,Hard,H04,55,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Rod,Hard,H04,48,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Rod,Hard,H04,45,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Rod,Nominal Grain Size 0.050 mm,OS050,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Shapes,As Hot Extruded,M30,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Shapes,As Hot Rolled,M20,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Shapes,Hard,H04,40,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Shapes,Nominal Grain Size 0.050 mm,OS050,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Tube,Hard Drawn,H80,55,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Tube,"Light Drawn, Light Cold Rolled",H55,40,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Tube,Nominal Grain Size 0.025 mm,OS025,34,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Tube,Nominal Grain Size 0.050 mm,OS050,32,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Wire,Hard,H04,55,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Wire,Nominal Grain Size 0.050 mm,OS050,35,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10200 Oxygen-Free,Wire,Spring,H08,66,226,99.95,0,0,0,0,0,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,1/2 Hard,H02,42  ,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,1/4 Hard,H01,38,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,1/8 Hard,H00,36,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,1/8 Hard,H00,36,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,As Hot Rolled,M20,32,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,Hard,H04,45,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,Hard,H04,50,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,Hard,H04,50,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,Hard,H04,45,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,Nominal Grain Size 0.025 mm,OS025,43,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,Nominal Grain Size 0.050 mm,OS050,32,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Flat Products,Nominal Grain Size 0.050 mm,OS050,32,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Pipe,Hard,H04,50,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Rod,Hard,H04,48,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Rod,Hard,H04,55,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Rod,Hard,H04,45,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Shapes,Hard,H04,40,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Shapes,Nominal Grain Size 0.050 mm,OS050,32,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Tube,Hard Drawn,H80,55,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Tube,Hard Drawn,H80,55,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Tube,"Light Drawn, Light Cold Rolled",H55,40,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Tube,Nominal Grain Size 0.025 mm,OS025,34,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10300       Oxygen-Free Copper,Tube,Nominal Grain Size 0.050 mm,OS050,32,223,99.95,0,0,0,0.003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,1/2 Hard,H02,42,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,1/4 Hard,H01,38,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,1/4 Hard,H01,38,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,1/8 Hard,H00,36,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,1/8 Hard,H00,36,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,As Hot Rolled,M20,34,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,As Hot Rolled,M20,32,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,Extra Spring,H10,57,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,Hard,H04,50,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,Hard,H04,45,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,Hard,H04,50,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,Nominal Grain Size 0.025 mm,OS025,34,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,Nominal Grain Size 0.050 mm,OS050,32,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Flat Products,Spring,H08,55,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Rod,As Hot Rolled,M20,32,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Rod,Hard,H04,55,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Rod,Hard,H04,48,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Rod,Hard,H04,45,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Rod,Nominal Grain Size 0.050 mm,OS050,32,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Shapes,As Hot Extruded,M30,32,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Shapes,As Hot Rolled,M20,32,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Shapes,Hard,H04,40,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Shapes,Nominal Grain Size 0.050 mm,OS050,32,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Tube,Hard Drawn,H80,55,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Tube,"Light Drawn, Light Cold Rolled",H55,40,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Tube,Nominal Grain Size 0.025 mm,OS025,34,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Tube,Nominal Grain Size 0.050 mm,OS050,32,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Wire,Hard,H04,55,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Wire,Nominal Grain Size 0.050 mm,OS050,35,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10400    Oxygen-Free with Ag,Wire,Spring,H08,66,224,99.95,0,0,0,0,0.027,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,1/2 Hard,H02,42  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,1/4 Hard,H01,38  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,1/4 Hard,H01,38  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,1/8 Hard,H00,36  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,1/8 Hard,H00,36  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,As Hot Rolled,M20,34  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,As Hot Rolled,M20,32  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Extra Spring,H10,57  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Hard,H04,50  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Hard,H04,45  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Hard,H04,50  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Nominal Grain Size 0.025 mm,OS025,34  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Nominal Grain Size 0.050 mm,OS050,32  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Spring,H08,55  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,As Hot Rolled,M20,32  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Hard,H04,55  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Hard,H04,45  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Hard,H04,48  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Flat products,Nominal Grain Size 0.050 mm,OS050,32  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Shapes,As Hot Extruded,M30,32  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Shapes,As Hot Rolled,M20,32  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Shapes,Hard,H04,40  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Shapes,Nominal Grain Size 0.050 mm,OS050,32  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Tube,Hard Drawn,H80,55  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Tube,"Light Drawn, Light Cold Rolled",H55,40  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Tube,Nominal Grain Size 0.025 mm,OS025,34  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Tube,Nominal Grain Size 0.050 mm,OS050,32  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Wire,Hard,H04,55  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Wire,Nominal Grain Size 0.050 mm,OS050,35  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10500 Oxygen-Free with Ag,Wire,Spring,H08,66  ,224,99.95,0,0,0,0,0.034,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,1/2 Hard,H02,42  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,1/4 Hard,H01,38  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,1/4 Hard,H01,38  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,1/8 Hard,H00,36  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,1/8 Hard,H00,36  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,As Hot Rolled,M20,34  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,As Hot Rolled,M20,32  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,Extra Spring,H10,57  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,Hard,H04,50  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,Hard,H04,45  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,Hard,H04,50  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,Nominal Grain Size 0.025 mm,OS025,34  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,Nominal Grain Size 0.050 mm,OS050,32  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag, Products,Spring,H08,55  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Rod,As Hot Rolled,M20,32  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Rod,Hard,H04,45  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Rod,Hard,H04,48  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Rod,Hard,H04,55  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Rod,Nominal Grain Size 0.050 mm,OS050,32  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Shapes,As Hot Extruded,M30,32  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Shapes,As Hot Rolled,M20,32  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Shapes,Hard,H04,40  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Shapes,Nominal Grain Size 0.050 mm,OS050,32  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Tube,Hard Drawn,H80,55  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Tube,"Light Drawn, Light Cold Rolled",H55,40  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Tube,Nominal Grain Size 0.025 mm,OS025,34  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Tube,Nominal Grain Size 0.050 mm,OS050,32  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Wire,Hard,H04,55  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Wire,Nominal Grain Size 0.050 mm,OS050,35  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10700 Oxygen-Free with Ag,Wire,Spring,H08,66  ,224,99.95,0,0,0,0,0.085,0,0.001,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,1/2 Hard,H02,42  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,1/4 Hard,H01,38  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,1/8 Hard,H00,36  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,,H00,36  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,As Hot Rolled,M20,32  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,Hard,H04,45  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,Hard,H04,50  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,Hard,H04,50  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,Nominal Grain Size 0.025 mm,OS025,34  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,Nominal Grain Size 0.050 mm,OS050,32  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP, Products,Spring,H08,55  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Pipe,Hard,H04,50  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Rod,Hard,H04,48  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Rod,Hard,H04,45  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Rod,Hard,H04,55  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Tube,Drawn General Purpose,H58,36,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Tube,Hard Drawn,H80,55  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Tube,Hard Drawn,H80,55  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Tube,"Light Drawn, Light Cold Rolled",H55,40  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Tube,Nominal Grain Size 0.025 mm,OS025,34  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10800 OLFP,Tube,Nominal Grain Size 0.050 mm,OS050,32  ,202,99.95,0,0,0,0.0085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C10910, Products,1/2 Hard,H02,42   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,1/4 Hard,H01,38   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,,H01,38   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,1/8 Hard,H00,36   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,,H00,36   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,As Hot Rolled,M20,32   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,,M20,34   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,Extra Spring,H10,57   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,Hard,H04,50   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,Hard,H04,45   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,Hard,H04,50   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,Nominal Grain Size 0.025 mm,OS025,34   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,Nominal Grain Size 0.050 mm,OS050,32   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,Nominal Grain Size 0.050 mm,OS050,32   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+C10910,t Products,Spring,H08,55   ,226,99.95,0,0,0,0,0,0,0.005,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,1/2 Hard,H02,42,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,1/4 Hard,H01,38,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,1/8 Hard,H00,36,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,Extra Spring,H10,57,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,Hard,H04,50,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,Nominal Grain Size 0.050 mm,OS050,34,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Flat Products,Spring,H08,55,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Rod,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Rod,Hard,H04,33 Min,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Rod,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Rod,Soft Anneal,O60,28 Min,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Shapes,As Hot Extruded,M30,32,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Shapes,Hard,H04,40,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Tube,Hard Drawn,H80,35 Min,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Wire,Hard,H04,55,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Wire,Nominal Grain Size 0.050 mm,OS050,35,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11300-Tough Pitch with Ag (STP,Wire,Spring,H08,66,224,99.9,0,0,0,0,0.027,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,1/2 Hard,H02,42,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,1/4 Hard,H01,38,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,1/4 Hard,H01,38,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,1/8 Hard,H00,36,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,1/8 Hard,H00,36,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,As Hot Rolled,M20,34,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,Extra Spring,H10,57,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,Hard,H04,45,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,Hard,H04,50,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,Hard,H04,50,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,Nominal Grain Size 0.025 mm,OS025,34,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Flat Products,Spring,H08,55,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Rod,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Rod,Hard,H04,55,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Rod,Hard,H04,48,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Rod,Hard,H04,45,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Rod,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Shapes,As Hot Extruded,M30,32,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Shapes,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Shapes,Hard,H04,40,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Shapes,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Wire,Hard,H04,55,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Wire,Nominal Grain Size 0.050 mm,OS050,35,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c11400 Tough Pitch with Ag (STP,Wire,Spring,H08,66,224,99.9,0,0,0,0,0.034,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,1/2 Hard,H02,42,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,1/4 Hard,H01,38,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,1/4 Hard,H01,38,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,1/8 Hard,H00,36,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,1/8 Hard,H00,36,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,As Hot Rolled,M20,34,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,Extra Spring,H10,57,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,Hard,H04,50,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,Hard,H04,50,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,Hard,H04,45,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,Nominal Grain Size 0.025 mm,OS025,34,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,t Products,Spring,H08,55,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Rod,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Rod,Hard,H04,55,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Rod,Hard,H04,45,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Rod,Hard,H04,48,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Rod,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Shapes,As Hot Extruded,M30,32,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Shapes,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Shapes,Hard,H04,40,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Shapes,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Wire,Hard,H04,55,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Wire,Nominal Grain Size 0.050 mm,OS050,35,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11500 Tough Pitch with Ag,Wire,Spring,H08,66,224,99.9,0,0,0,0,0.054,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,1/2 Hard,H02,42,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,1/4 Hard,H01,38,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,1/4 Hard,H01,38,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,1/8 Hard,H00,36,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,1/8 Hard,H00,36,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,As Hot Rolled,M20,34,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,Extra Spring,H10,57,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,Hard,H04,50,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,Hard,H04,50,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,Hard,H04,45,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,Nominal Grain Size 0.025 mm,OS025,34,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,lat Products,Spring,H08,55,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Rod,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Rod,Hard,H04,48,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Rod,Hard,H04,45,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Rod,Hard,H04,55,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Rod,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Shapes,As Hot Extruded,M30,32,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Shapes,As Hot Rolled,M20,32,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Shapes,Hard,H04,40,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Shapes,Nominal Grain Size 0.050 mm,OS050,32,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Wire,Hard,H04,55,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Wire,Nominal Grain Size 0.050 mm,OS050,35,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C11600 Tough Pitch with Ag,Wire,Spring,H08,66,224,99.9,0,0,0,0,0.085,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,1/2 Hard,H02,42,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,1/4 Hard,H01,38,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,1/4 Hard,H01,38,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,1/8 Hard,H00,36,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,1/8 Hard,H00,36,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,As Hot Rolled,M20,34,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,As Hot Rolled,M20,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,Extra Spring,H10,57,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,Hard,H04,50,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,Hard,H04,50,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,Hard,H04,45,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,Nominal Grain Size 0.025 mm,OS025,34,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,,OS050,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",lat Products,Spring,H08,55,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Pipe,Hard,H04,50,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Rod,As Hot Rolled,M20,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Rod,Hard,H04,55,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Rod,Hard,H04,45,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Rod,Hard,H04,48,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Rod,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Shapes,As Hot Extruded,M30,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Shapes,As Hot Rolled,M20,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Shapes,Hard,H04,40,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Shapes,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Tube,Hard Drawn,H80,55,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Tube,"Light Drawn, Light Cold Rolled",H55,40,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Tube,Nominal Grain Size 0.025 mm,OS025,34,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12000 Phosphorus-Deoxidized, Low Residual P",Tube,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0,0,0,0,0.008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,1/2 Hard,H02,42,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,1/4 Hard,H01,38,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,1/4 Hard,H01,38,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,1/8 Hard,H00,36,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,1/8 Hard,H00,36,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,As Hot Rolled,M20,34,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,As Hot Rolled,M20,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,Extra Spring,H10,57,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,Hard,H04,50,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,Hard,H04,45,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,Hard,H04,50,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,Nominal Grain Size 0.025 mm,OS025,34,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",t Products,Spring,H08,55,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Pipe,Hard,H04,50,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Rod,As Hot Rolled,M20,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Rod,Hard,H04,55,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Rod,Hard,H04,48,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Rod,Hard,H04,45,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Rod,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Shapes,As Hot Extruded,M30,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Shapes,As Hot Rolled,M20,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Shapes,Hard,H04,40,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Shapes,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Tube,Hard Drawn,H80,55,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Tube,"Light Drawn, Light Cold Rolled",H55,40,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Tube,Nominal Grain Size 0.025 mm,OS025,34,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"c12100Phosphorus-Deoxidized, Low Residual P",Tube,Nominal Grain Size 0.050 mm,OS050,32,223,99.9,0.08,0,0,0,0.014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,1/2 Hard,H02,42,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,1/4 Hard,H01,38,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,1/4 Hard,H01,38,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,1/8 Hard,H00,36,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,1/8 Hard,H00,36,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,As Hot Rolled,M20,32,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,As Hot Rolled,M20,34,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,Extra Spring,H10,57,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,Hard,H04,50,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,Hard,H04,45,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,Hard,H04,50,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,Nominal Grain Size 0.025 mm,OS025,34,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,Nominal Grain Size 0.050 mm,OS050,32,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,Nominal Grain Size 0.050 mm,OS050,32,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Products,Spring,H08,55,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Pipe,Hard,H04,50,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Tube,Hard Drawn,H80,55,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Tube,"Light Drawn, Light Cold Rolled",H55,40,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Tube,Nominal Grain Size 0.025 mm,OS025,34,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C12200 Phosphorus-Deoxidized, High Residual P",Tube,Nominal Grain Size 0.050 mm,OS050,32,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,1/2 Hard,H02,42,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,1/4 Hard,H01,38,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,1/4 Hard,H01,38,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,1/8 Hard,H00,36,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,1/8 Hard,H00,36,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,As Hot Rolled,M20,32,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,As Hot Rolled,M20,34,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,Extra Spring,H10,57,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,Hard,H04,45,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,Hard,H04,50,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,Hard,H04,50,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,Nominal Grain Size 0.025 mm,OS025,34,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,Nominal Grain Size 0.050 mm,OS050,32,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,Nominal Grain Size 0.050 mm,OS050,32,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Products,Spring,H08,55,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Pipe,Hard,H04,50,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Tube,Hard Drawn,H80,55,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Tube,"Light Drawn, Light Cold Rolled",H55,40,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Tube,Nominal Grain Size 0.025 mm,OS025,34,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12210,Tube,Nominal Grain Size 0.050 mm,OS050,32,196,99.9,0.022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,1/2 Hard,H02,45,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,1/2 Hard,H02,42,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,1/4 Hard,H01,40,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,1/4 Hard,H01,40,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,1/8 Hard,H00,36,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,3/4 Hard,H03,48,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,As Hot Rolled,M20,34,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Extra Hard,H06,55,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Extra Hard,H06,55,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Extra Spring,H10,59,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Extra Spring,H10,57,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Extra Spring,H10,59,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Hard,H04,51,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Hard,H04,50,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Nominal Grain Size 0.015 mm,OS015,33,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Nominal Grain Size 0.015 mm,OS015,33,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Nominal Grain Size 0.025 mm,OS025,34,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Spring,H08,55,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Spring,H08,59,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Products,Spring,H08,59,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Rod,As Hot Rolled,M20,32,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Rod,Hard,H04,48,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Rod,Nominal Grain Size 0.050 mm,OS050,32,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Shapes,As Hot Extruded,M30,32,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Shapes,As Hot Rolled,M20,32,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Shapes,Hard,H04,40,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Shapes,Nominal Grain Size 0.050 mm,OS050,32,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Wire,Hard,H04,55,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Wire,Nominal Grain Size 0.050 mm,OS050,35,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12500 Fire-Refined Tough Pitch,Wire,Spring,H08,66,202,99.88,0.004,0,0,0,0,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+c12600,fLAT PRODUCTS,Annealed,O61,38,77.4,99.5,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Flat products,1/2 Hard,H02,42,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Flat products,1/8 Hard,H00,36,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Flat products,As Hot Rolled,M20,34,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Flat products,Extra Spring,H10,57,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Flat products,Hard,H04,50,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Flat products,Nominal Grain Size 0.025 mm,OS025,34,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Flat products,Spring,H08,55,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Rod,As Hot Rolled,M20,32,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Rod,Hard,H04,48,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Rod,Nominal Grain Size 0.050 mm,OS050,32,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Shapes,As Hot Extruded,M30,32,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Shapes,As Hot Rolled,M20,32,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Shapes,Hard,H04,40,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Shapes,Nominal Grain Size 0.050 mm,OS050,32,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Wire,Hard,H04,55,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Wire,Nominal Grain Size 0.050 mm,OS050,35,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+C12900 Fire-Refined Tough Pitch with Ag,Wire,Spring,H08,66,218,99.88,0.004,0,0,0,0.054,0.012,0,0.003,0.025,0.05,0.003,0,0,0,0,0,0,0,0
+"C14200 Phosphorus-Deoxidized, Arsenical",Flat Products,Nominal Grain Size 0.050 mm,OS050,32,112,99.4,0.027,0,0,0,0,0.037,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C14200 Phosphorus-Deoxidized, Arsenical",Pipe,Hard,H04,50,112,99.4,0.027,0,0,0,0,0.037,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C14200 Phosphorus-Deoxidized, Arsenical",Tube,Hard Drawn,H80,55,112,99.4,0.027,0,0,0,0,0.037,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C14200 Phosphorus-Deoxidized, Arsenical",Tube,"Light Drawn, Light Cold Rolled",H55,40,112,99.4,0.027,0,0,0,0,0.037,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C14200 Phosphorus-Deoxidized, Arsenical",Tube,Nominal Grain Size 0.025 mm,OS025,34,112,99.4,0.027,0,0,0,0,0.037,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C14200 Phosphorus-Deoxidized, Arsenical",Tube,Nominal Grain Size 0.050 mm,OS050,32,112,99.4,0.027,0,0,0,0,0.037,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,1/2 Hard,H02,45,218,99.9,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,Extra Spring,H10,58,218,99.9,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,Extra Spring,H10,58 Min,218,99.9,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,Hard,H04,45,218,99.9,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,Hard,H04,51,218,99.9,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,Nominal Grain Size 0.025 mm,OS025,32,218,99.9,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,Nominal Grain Size 0.025 mm,OS025,32,218,99.9,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,Spring,H08,59,218,99.9,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0
+"C14300 Cadmium Copper, Deoxidized",Strip,Spring,H08,51,218,99.9,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0
+"C14425 Copper
+",Wire,Hard-drawn Electrical Wire,H86,116,169,99.97,0.1,0.1,0.02,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,38,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,38,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,42,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,38,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,42,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,42,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,43,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,43,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,42,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/2 Hard,H02,43,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,1/8 Hard,H00,38,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Hard,H04,53,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Hard,H04,48,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Hard,H04,48,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Hard,H04,53,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Hard,H04,48,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Hard,H04,48,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Nominal Grain Size 0.015 mm,OS015,33,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Nominal Grain Size 0.015 mm,OS015,33,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Rod,Nominal Grain Size 0.050 mm,OS050,32,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing ,Rod,Nominal Grain Size 0.050 mm,OS050,32,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Tube,"Light Drawn, Light Cold Rolled",H55,40,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Tube,Nominal Grain Size 0.050 mm,OS050,32,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Wire,1/2 Hard,H02,51,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Wire,1/8 Hard,H00,38,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Wire,Hard,H04,56,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14500 Tellurium-Bearing,Wire,Nominal Grain Size 0.035 mm,OS035,33,205,99.9,0.008,0,0,0,0,0,0,0,0.65,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,1/2 Hard,H02,43,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,1/2 Hard,H02,42,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,1/2 Hard,H02,42,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,1/2 Hard,H02,43,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,1/8 Hard,H00,38,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,Hard,H04,48,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,Hard,H04,48,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,Hard,H04,53,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,Nominal Grain Size 0.015 mm,OS015,33,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Rod,Nominal Grain Size 0.050 mm,OS050,32,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Tube,"Light Drawn, Light Cold Rolled",H55,40,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Tube,Nominal Grain Size 0.050 mm,OS050,32,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Wire,1/2 Hard,H02,51,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Wire,1/8 Hard,H00,38,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Wire,Hard,H04,56,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+C14510 Tellurium-Bearing,Wire,Nominal Grain Size 0.035 mm,OS035,33,205,99.85,0.05,0,0,0.02,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,1/2 Hard,H02,43,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,1/2 Hard,H02,42,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,1/2 Hard,H02,43,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,1/2 Hard,H02,42,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,1/8 Hard,H00,38,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,Hard,H04,48,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,Hard,H04,53,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,Hard,H04,48,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,Nominal Grain Size 0.015 mm,OS015,33,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Rod,Nominal Grain Size 0.050 mm,OS050,32,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Tube,"Light Drawn, Light Cold Rolled",H55,40,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Tube,Nominal Grain Size 0.050 mm,OS050,32,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Wire,1/2 Hard,H02,51,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Wire,1/8 Hard,H00,38,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Wire,Hard,H04,56,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+"C14520 Phosphorus-Deoxidized,Tellurium-Bearing",Wire,Nominal Grain Size 0.035 mm,OS035,33,190,99.9,0,0,0,0.012,0,0,0,0,0.55,0,0,0,0,0,0,0,0,0,0
+C14530*,Flat Products,1/2 Hard,H02,45,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,1/2 Hard,H02,45,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,1/4 Hard,H01,40,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,1/4 Hard,H01,40,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,3/4 Hard,H03,48,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,3/4 Hard,H03,48 Min,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Extra Hard,H06,55,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Extra Hard,H06,55,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Extra Spring,H10,59 Min,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Extra Spring,H10,59 Min,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Hard,H04,51,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Hard,H04,51,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Nominal Grain Size 0.015 mm,OS015,33,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Nominal Grain Size 0.015 mm,OS015,33,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Spring,H08,59,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14530*,Flat Products,Spring,H08,59,225,99.9,0,0,0,0.055,0,0,0,0,0.013,0,0,0,0.13,0,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,1/2 Hard,H02,42,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,1/2 Hard,H02,43,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,1/2 Hard,H02,43,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,1/2 Hard,H02,43,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,1/2 Hard,H02,42,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,1/8 Hard,H00,38,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Extra Hard,H06,57,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Hard,H04,46,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Hard,H04,48,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Hard,H04,40,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Hard,H04,48,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Hard,H04,48,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Hard,H04,42,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Hard,H04,53,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Hard,H04,48,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Nominal Grain Size 0.015 mm,OS015,33,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Nominal Grain Size 0.015 mm,OS015,33,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Nominal Grain Size 0.050 mm,OS050,32,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C14700 Sulfur-Bearing,Rod,Nominal Grain Size 0.050 mm,OS050,32,216,99.9,0,0,0,0.0035,0,0,0,0,0,0,0,0,0,0.35,0,0,0,0,0
+C15000 Zirconium Copper,Rod & Bar,1/4 Hard and Precipitation Heat Treated,TH01,48,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Rod & Bar,Hard and Precipitation Heat Treated,TH04,60,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Rod & Bar,Precipitation Hardened,TF00,30,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Rod & Bar,Solution Heat Treated,TB00,29,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Rod & Bar,Solution Heat Treated and Cold Worked: 1/2 Hard,TD02,49,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Rod & Bar,Solution Heat Treated and Cold Worked: Hard,TD04,57,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Wire,1/2 Hard and Precipitation Heat Treated,TH02,53,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Wire,Annealed,O61,37,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Wire,Hard and Precipitation Heat Treated,TH04,76,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Wire,,TH04,72,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Wire,Precipitation Hardened,TF00,30,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15000 Zirconium Copper,Wire,Solution Heat Treated,TB00,29,212,99.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0,0
+C15100,Flat Products,1/2 Hard,H02,47,208,99.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0
+C15100,Flat Products,1/4 Hard,H01,42,208,99.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0
+C15100,Flat Products,3/4 Hard,H03,51,208,99.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0
+c15100,Flat Products,Extra Hard,H06,63,208,99.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0
+C15100,Flat Products,Hard,H04,57,208,99.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0
+C15100,Flat Products,Nominal Grain Size 0.015 mm,OS015,38,208,99.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0
+C15100,Flat Products,Spring,H08,68,208,99.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0
+C15150,Flat Products,Hard,H04,53,212,99.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C15500*,Flat Products,1/2 Hard,H02,53,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,1/4 Hard,H01,45,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,1/4 Hard,H01,45,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,Extra Spring,H10,72,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,Hard,H04,62,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,Light Anneal,O50,40,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,Light Anneal,O50,40,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,Special Spring,H12,75,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,Spring,H08,67,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15500*,Flat Products,Super Spring,H14,80,200,99.75,0,0,0,0,0.525,0,0,0,0,0,0,0,0,0,0,0,0.115,0,0
+C15630,Tube,Annealed,O61,29.7,,99.2225,0,0,0,0.0275,0,0,0,0,0,0.75,0,0,0,0,0,0,0,0,0
+"C15650 MA5J
+Copper",Tube,Anneal,ANNEAL,41.5 Typ,210,99.9,0,0,0,0.025,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05,0
+"C15650 MA5J
+Copper",Tube,Hard,H04,66 Typ,210,99.9,0,0,0,0.025,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05,0
+c15715 Dispersion Strengthened Alloy,Flat products,Annealed,O61,69 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Flat products,Annealed,O61,61 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Flat products,Annealed,O61,52 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Flat products,As Hot Extruded,M30,55 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Flat products,Hard,H04,74 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Flat products,Hard,H04,88 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Flat products,Hard,H04,73 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Flat products,Hard,H04,70 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Rod,Annealed,O61,57 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Rod,Annealed,O61,67 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Rod,Annealed,O61,59 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Rod,As Hot Extruded,M30,57 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Rod,Hard,H04,72 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Rod,Hard,H04,66 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Rod,Hard,H04,62 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Wire,Annealed,O61,58 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Wire,Annealed,O61,66 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Wire,Annealed,O61,52 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Wire,Hard,H04,87 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Wire,Hard,H04,72 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Wire,Hard,H04,76 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+c15715 Dispersion Strengthened Alloy,Wire,Hard,H04,88 Typ,211,99.62,0.01,0,0.01,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,0,0.15
+C15720 Dispersion Strengthned Alloy,Flat Products,Annealed,O61,74 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Flat Products,Annealed,O61,64 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Flat Products,Annealed,O61,70 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Flat Products,Annealed,O61,79 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Flat Products,As Hot Extruded,M30,62 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Flat Products,Hard,H04,82 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Flat Products,Hard,H04,95 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Flat Products,Hard,H04,78 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Flat Products,Hard,H04,85 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,Annealed,O61,67 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,Annealed,O61,71 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,Annealed,O61,77 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,As Hot Extruded,M30,67 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,As Hot Extruded,M30,64 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,As Hot Extruded,M30,76 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,Hard,H04,80 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,Hard,H04,70 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Rod,Hard,H04,74 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Wire,Annealed,O61,73 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Wire,Annealed,O61,69 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Wire,Annealed,O61,78 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Wire,Hard,H04,85 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Wire,Hard,H04,96 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Wire,Hard,H04,81 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
+C15720 Dispersion Strengthned Alloy,Wire,Hard,H04,98 Typ,204,99.52,0.01,0,0.01,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2
