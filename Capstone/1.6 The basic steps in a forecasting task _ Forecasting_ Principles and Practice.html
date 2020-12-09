@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)https://otexts.com/fpp2/basic-steps.html -->
+<html lang="" xml:lang=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>1.6 The basic steps in a forecasting task | Forecasting: Principles&nbsp;and&nbsp;Practice</title>
+  <meta name="description" content="2nd edition">
+  <meta name="generator" content="bookdown 0.17.2 and GitBook 2.6.7">
+
+  <meta property="og:title" content="1.6 The basic steps in a forecasting task | Forecasting: Principles and Practice">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://Otexts.com/fpp2/">
+  <meta property="og:image" content="https://Otexts.com/fpp2/fpp2_cover.jpg">
+  <meta property="og:description" content="2nd edition">
+  
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="1.6 The basic steps in a forecasting task | Forecasting: Principles and Practice">
+  <meta name="twitter:site" content="@robjhyndman">
+  <meta name="twitter:description" content="2nd edition">
+  <meta name="twitter:image" content="https://Otexts.com/fpp2/fpp2_cover.jpg">
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  
+<link rel="prev" href="https://otexts.com/fpp2/case-studies.html">
+<link rel="next" href="https://otexts.com/fpp2/perspective.html">
+<script type="text/javascript" async="" src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/analytics.js.download"></script><script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/jquery.min.js.download"></script>
+<link href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/style.css" rel="stylesheet">
+<link href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-table.css" rel="stylesheet">
+<link href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-bookdown.css" rel="stylesheet">
+<link href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-highlight.css" rel="stylesheet">
+<link href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-search.css" rel="stylesheet">
+<link href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-fontsettings.css" rel="stylesheet">
+<link href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-clipboard.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/kePrint.js.download"></script>
+<script type="text/x-mathjax-config;executed=true">
+MathJax.Hub.Config({
+  TeX: { 
+    equationNumbers: { autoNumber: "AMS" } ,
+    Macros: {
+      bm: ["\\boldsymbol{#1}",1],
+      y:    ["y_{\\text{#1},#2}",2],
+      yhat: ["\\hat{y}_{\\text{#1},#2}",2],
+      ytilde: ["\\tilde{y}_{\\text{#1},#2}",2],
+      Shat: ["\\hat{S}_{\\text{#1},#2}^{(#3)}",3]
+    }
+  }
+});
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-27933797-2');
+</script>
+<link href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/css" rel="stylesheet">
+<link rel="stylesheet" href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/hack-subset.css">
+
+
+<style type="text/css">
+a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+a.sourceLine { text-indent: -1em; padding-left: 1em; }
+}
+pre.numberSource a.sourceLine
+  { position: relative; left: -4em; }
+pre.numberSource a.sourceLine::before
+  { content: attr(title);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; pointer-events: all; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  }
+@media screen {
+a.sourceLine::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<link rel="stylesheet" href="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/style(1).css" type="text/css">
+<script type="text/javascript" src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/MathJax.js.download"></script><style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</style><style type="text/css">.MathJax_Preview .MJXf-math {color: inherit!important}
+</style><style type="text/css">.MJX_Assistive_MathML {position: absolute!important; top: 0; left: 0; clip: rect(1px, 1px, 1px, 1px); padding: 1px 0 0 0!important; border: 0!important; height: 1px!important; width: 1px!important; overflow: hidden!important; display: block!important; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none}
+.MJX_Assistive_MathML.MJX_Assistive_MathML_Block {width: 100%!important}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><style type="text/css">.MJXp-script {font-size: .8em}
+.MJXp-right {-webkit-transform-origin: right; -moz-transform-origin: right; -ms-transform-origin: right; -o-transform-origin: right; transform-origin: right}
+.MJXp-bold {font-weight: bold}
+.MJXp-italic {font-style: italic}
+.MJXp-scr {font-family: MathJax_Script,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-frak {font-family: MathJax_Fraktur,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-sf {font-family: MathJax_SansSerif,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-cal {font-family: MathJax_Caligraphic,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-mono {font-family: MathJax_Typewriter,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-largeop {font-size: 150%}
+.MJXp-largeop.MJXp-int {vertical-align: -.2em}
+.MJXp-math {display: inline-block; line-height: 1.2; text-indent: 0; font-family: 'Times New Roman',Times,STIXGeneral,serif; white-space: nowrap; border-collapse: collapse}
+.MJXp-display {display: block; text-align: center; margin: 1em 0}
+.MJXp-math span {display: inline-block}
+.MJXp-box {display: block!important; text-align: center}
+.MJXp-box:after {content: " "}
+.MJXp-rule {display: block!important; margin-top: .1em}
+.MJXp-char {display: block!important}
+.MJXp-mo {margin: 0 .15em}
+.MJXp-mfrac {margin: 0 .125em; vertical-align: .25em}
+.MJXp-denom {display: inline-table!important; width: 100%}
+.MJXp-denom > * {display: table-row!important}
+.MJXp-surd {vertical-align: top}
+.MJXp-surd > * {display: block!important}
+.MJXp-script-box > *  {display: table!important; height: 50%}
+.MJXp-script-box > * > * {display: table-cell!important; vertical-align: top}
+.MJXp-script-box > *:last-child > * {vertical-align: bottom}
+.MJXp-script-box > * > * > * {display: block!important}
+.MJXp-mphantom {visibility: hidden}
+.MJXp-munderover {display: inline-table!important}
+.MJXp-over {display: inline-block!important; text-align: center}
+.MJXp-over > * {display: block!important}
+.MJXp-munderover > * {display: table-row!important}
+.MJXp-mtable {vertical-align: .25em; margin: 0 .125em}
+.MJXp-mtable > * {display: inline-table!important; vertical-align: middle}
+.MJXp-mtr {display: table-row!important}
+.MJXp-mtd {display: table-cell!important; text-align: center; padding: .5em 0 0 .5em}
+.MJXp-mtr > .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mtr:first-child > .MJXp-mtd {padding-top: 0}
+.MJXp-mlabeledtr {display: table-row!important}
+.MJXp-mlabeledtr > .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mlabeledtr:first-child > .MJXp-mtd {padding-top: 0}
+.MJXp-merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MJXp-scale0 {-webkit-transform: scaleX(.0); -moz-transform: scaleX(.0); -ms-transform: scaleX(.0); -o-transform: scaleX(.0); transform: scaleX(.0)}
+.MJXp-scale1 {-webkit-transform: scaleX(.1); -moz-transform: scaleX(.1); -ms-transform: scaleX(.1); -o-transform: scaleX(.1); transform: scaleX(.1)}
+.MJXp-scale2 {-webkit-transform: scaleX(.2); -moz-transform: scaleX(.2); -ms-transform: scaleX(.2); -o-transform: scaleX(.2); transform: scaleX(.2)}
+.MJXp-scale3 {-webkit-transform: scaleX(.3); -moz-transform: scaleX(.3); -ms-transform: scaleX(.3); -o-transform: scaleX(.3); transform: scaleX(.3)}
+.MJXp-scale4 {-webkit-transform: scaleX(.4); -moz-transform: scaleX(.4); -ms-transform: scaleX(.4); -o-transform: scaleX(.4); transform: scaleX(.4)}
+.MJXp-scale5 {-webkit-transform: scaleX(.5); -moz-transform: scaleX(.5); -ms-transform: scaleX(.5); -o-transform: scaleX(.5); transform: scaleX(.5)}
+.MJXp-scale6 {-webkit-transform: scaleX(.6); -moz-transform: scaleX(.6); -ms-transform: scaleX(.6); -o-transform: scaleX(.6); transform: scaleX(.6)}
+.MJXp-scale7 {-webkit-transform: scaleX(.7); -moz-transform: scaleX(.7); -ms-transform: scaleX(.7); -o-transform: scaleX(.7); transform: scaleX(.7)}
+.MJXp-scale8 {-webkit-transform: scaleX(.8); -moz-transform: scaleX(.8); -ms-transform: scaleX(.8); -o-transform: scaleX(.8); transform: scaleX(.8)}
+.MJXp-scale9 {-webkit-transform: scaleX(.9); -moz-transform: scaleX(.9); -ms-transform: scaleX(.9); -o-transform: scaleX(.9); transform: scaleX(.9)}
+.MathJax_PHTML .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
+</style></head>
+
+<body><div id="MathJax_Message" style="display: none;"></div>
+
+
+
+  <div class="book without-animation with-summary   font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary"><div class="book-search" role="search"><label for="search-box" aria-hidden="false" hidden="hidden">Type to search</label><input id="search-box" type="search" class="form-control" placeholder="Type to search (Enter for navigation)" title="Use Enter or the &lt;Down&gt; key to navigate to the next match, or the &lt;Up&gt; key to the previous match"></div>
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="https://otexts.com/fpp2/">Forecasting: Principles and Practice</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="https://otexts.com/fpp2/index.html"><i class="fa fa-check"></i>Preface</a></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="https://otexts.com/fpp2/intro.html"><i class="fa fa-check"></i><b>1</b> Getting started</a><ul>
+<li class="chapter" data-level="1.1" data-path="what-can-be-forecast.html"><a href="https://otexts.com/fpp2/what-can-be-forecast.html"><i class="fa fa-check"></i><b>1.1</b> What can be forecast?</a></li>
+<li class="chapter" data-level="1.2" data-path="planning.html"><a href="https://otexts.com/fpp2/planning.html"><i class="fa fa-check"></i><b>1.2</b> Forecasting, planning and goals</a></li>
+<li class="chapter" data-level="1.3" data-path="determining-what-to-forecast.html"><a href="https://otexts.com/fpp2/determining-what-to-forecast.html"><i class="fa fa-check"></i><b>1.3</b> Determining what to forecast</a></li>
+<li class="chapter" data-level="1.4" data-path="data-methods.html"><a href="https://otexts.com/fpp2/data-methods.html"><i class="fa fa-check"></i><b>1.4</b> Forecasting data and methods</a></li>
+<li class="chapter" data-level="1.5" data-path="case-studies.html"><a href="https://otexts.com/fpp2/case-studies.html"><i class="fa fa-check"></i><b>1.5</b> Some case studies</a></li>
+<li class="chapter active" data-level="1.6" data-path="basic-steps.html"><a href="https://otexts.com/fpp2/basic-steps.html" title="1.6 The basic steps in a forecasting task"><i class="fa fa-check"></i><b>1.6</b> The basic steps in a forecasting task</a></li>
+<li class="chapter" data-level="1.7" data-path="perspective.html"><a href="https://otexts.com/fpp2/perspective.html" title="1.7 The statistical forecasting perspective"><i class="fa fa-check"></i><b>1.7</b> The statistical forecasting perspective</a></li>
+<li class="chapter" data-level="1.8" data-path="intro-exercises.html"><a href="https://otexts.com/fpp2/intro-exercises.html"><i class="fa fa-check"></i><b>1.8</b> Exercises</a></li>
+<li class="chapter" data-level="1.9" data-path="intro-reading.html"><a href="https://otexts.com/fpp2/intro-reading.html"><i class="fa fa-check"></i><b>1.9</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="graphics.html"><a href="https://otexts.com/fpp2/graphics.html"><i class="fa fa-check"></i><b>2</b> Time series graphics</a><ul>
+<li class="chapter" data-level="2.1" data-path="ts-objects.html"><a href="https://otexts.com/fpp2/ts-objects.html"><i class="fa fa-check"></i><b>2.1</b> <code>ts</code> objects</a></li>
+<li class="chapter" data-level="2.2" data-path="time-plots.html"><a href="https://otexts.com/fpp2/time-plots.html"><i class="fa fa-check"></i><b>2.2</b> Time plots</a></li>
+<li class="chapter" data-level="2.3" data-path="tspatterns.html"><a href="https://otexts.com/fpp2/tspatterns.html"><i class="fa fa-check"></i><b>2.3</b> Time series patterns</a></li>
+<li class="chapter" data-level="2.4" data-path="seasonal-plots.html"><a href="https://otexts.com/fpp2/seasonal-plots.html"><i class="fa fa-check"></i><b>2.4</b> Seasonal plots</a></li>
+<li class="chapter" data-level="2.5" data-path="seasonal-subseries-plots.html"><a href="https://otexts.com/fpp2/seasonal-subseries-plots.html"><i class="fa fa-check"></i><b>2.5</b> Seasonal subseries plots</a></li>
+<li class="chapter" data-level="2.6" data-path="scatterplots.html"><a href="https://otexts.com/fpp2/scatterplots.html"><i class="fa fa-check"></i><b>2.6</b> Scatterplots</a></li>
+<li class="chapter" data-level="2.7" data-path="lag-plots.html"><a href="https://otexts.com/fpp2/lag-plots.html"><i class="fa fa-check"></i><b>2.7</b> Lag plots</a></li>
+<li class="chapter" data-level="2.8" data-path="autocorrelation.html"><a href="https://otexts.com/fpp2/autocorrelation.html"><i class="fa fa-check"></i><b>2.8</b> Autocorrelation</a></li>
+<li class="chapter" data-level="2.9" data-path="wn.html"><a href="https://otexts.com/fpp2/wn.html"><i class="fa fa-check"></i><b>2.9</b> White noise</a></li>
+<li class="chapter" data-level="2.10" data-path="graphics-exercises.html"><a href="https://otexts.com/fpp2/graphics-exercises.html"><i class="fa fa-check"></i><b>2.10</b> Exercises</a></li>
+<li class="chapter" data-level="2.11" data-path="graphics-reading.html"><a href="https://otexts.com/fpp2/graphics-reading.html"><i class="fa fa-check"></i><b>2.11</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="toolbox.html"><a href="https://otexts.com/fpp2/toolbox.html"><i class="fa fa-check"></i><b>3</b> The forecaster’s toolbox</a><ul>
+<li class="chapter" data-level="3.1" data-path="simple-methods.html"><a href="https://otexts.com/fpp2/simple-methods.html"><i class="fa fa-check"></i><b>3.1</b> Some simple forecasting methods</a></li>
+<li class="chapter" data-level="3.2" data-path="transformations.html"><a href="https://otexts.com/fpp2/transformations.html"><i class="fa fa-check"></i><b>3.2</b> Transformations and adjustments</a></li>
+<li class="chapter" data-level="3.3" data-path="residuals.html"><a href="https://otexts.com/fpp2/residuals.html"><i class="fa fa-check"></i><b>3.3</b> Residual diagnostics</a></li>
+<li class="chapter" data-level="3.4" data-path="accuracy.html"><a href="https://otexts.com/fpp2/accuracy.html"><i class="fa fa-check"></i><b>3.4</b> Evaluating forecast accuracy</a></li>
+<li class="chapter" data-level="3.5" data-path="prediction-intervals.html"><a href="https://otexts.com/fpp2/prediction-intervals.html"><i class="fa fa-check"></i><b>3.5</b> Prediction intervals</a></li>
+<li class="chapter" data-level="3.6" data-path="the-forecast-package-in-r.html"><a href="https://otexts.com/fpp2/the-forecast-package-in-r.html"><i class="fa fa-check"></i><b>3.6</b> The forecast package in R</a></li>
+<li class="chapter" data-level="3.7" data-path="toolbox-exercises.html"><a href="https://otexts.com/fpp2/toolbox-exercises.html"><i class="fa fa-check"></i><b>3.7</b> Exercises</a></li>
+<li class="chapter" data-level="3.8" data-path="toolbox-reading.html"><a href="https://otexts.com/fpp2/toolbox-reading.html"><i class="fa fa-check"></i><b>3.8</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="judgmental.html"><a href="https://otexts.com/fpp2/judgmental.html"><i class="fa fa-check"></i><b>4</b> Judgmental forecasts</a><ul>
+<li class="chapter" data-level="4.1" data-path="judgmental-limitations.html"><a href="https://otexts.com/fpp2/judgmental-limitations.html"><i class="fa fa-check"></i><b>4.1</b> Beware of limitations</a></li>
+<li class="chapter" data-level="4.2" data-path="judgmental-principles.html"><a href="https://otexts.com/fpp2/judgmental-principles.html"><i class="fa fa-check"></i><b>4.2</b> Key principles</a></li>
+<li class="chapter" data-level="4.3" data-path="delphimethod.html"><a href="https://otexts.com/fpp2/delphimethod.html"><i class="fa fa-check"></i><b>4.3</b> The Delphi method</a></li>
+<li class="chapter" data-level="4.4" data-path="analogies.html"><a href="https://otexts.com/fpp2/analogies.html"><i class="fa fa-check"></i><b>4.4</b> Forecasting by analogy</a></li>
+<li class="chapter" data-level="4.5" data-path="scenarios.html"><a href="https://otexts.com/fpp2/scenarios.html"><i class="fa fa-check"></i><b>4.5</b> Scenario forecasting</a></li>
+<li class="chapter" data-level="4.6" data-path="new-products.html"><a href="https://otexts.com/fpp2/new-products.html"><i class="fa fa-check"></i><b>4.6</b> New product forecasting</a></li>
+<li class="chapter" data-level="4.7" data-path="judgmental-adjustments.html"><a href="https://otexts.com/fpp2/judgmental-adjustments.html"><i class="fa fa-check"></i><b>4.7</b> Judgmental adjustments</a></li>
+<li class="chapter" data-level="4.8" data-path="judgmental-reading.html"><a href="https://otexts.com/fpp2/judgmental-reading.html"><i class="fa fa-check"></i><b>4.8</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="regression.html"><a href="https://otexts.com/fpp2/regression.html"><i class="fa fa-check"></i><b>5</b> Time series regression models</a><ul>
+<li class="chapter" data-level="5.1" data-path="regression-intro.html"><a href="https://otexts.com/fpp2/regression-intro.html"><i class="fa fa-check"></i><b>5.1</b> The linear model</a></li>
+<li class="chapter" data-level="5.2" data-path="least-squares.html"><a href="https://otexts.com/fpp2/least-squares.html"><i class="fa fa-check"></i><b>5.2</b> Least squares estimation</a></li>
+<li class="chapter" data-level="5.3" data-path="regression-evaluation.html"><a href="https://otexts.com/fpp2/regression-evaluation.html"><i class="fa fa-check"></i><b>5.3</b> Evaluating the regression model</a></li>
+<li class="chapter" data-level="5.4" data-path="useful-predictors.html"><a href="https://otexts.com/fpp2/useful-predictors.html"><i class="fa fa-check"></i><b>5.4</b> Some useful predictors</a></li>
+<li class="chapter" data-level="5.5" data-path="selecting-predictors.html"><a href="https://otexts.com/fpp2/selecting-predictors.html"><i class="fa fa-check"></i><b>5.5</b> Selecting predictors</a></li>
+<li class="chapter" data-level="5.6" data-path="forecasting-regression.html"><a href="https://otexts.com/fpp2/forecasting-regression.html"><i class="fa fa-check"></i><b>5.6</b> Forecasting with regression</a></li>
+<li class="chapter" data-level="5.7" data-path="regression-matrices.html"><a href="https://otexts.com/fpp2/regression-matrices.html"><i class="fa fa-check"></i><b>5.7</b> Matrix formulation</a></li>
+<li class="chapter" data-level="5.8" data-path="nonlinear-regression.html"><a href="https://otexts.com/fpp2/nonlinear-regression.html"><i class="fa fa-check"></i><b>5.8</b> Nonlinear regression</a></li>
+<li class="chapter" data-level="5.9" data-path="causality.html"><a href="https://otexts.com/fpp2/causality.html" title="5.9 Correlation, causation and forecasting"><i class="fa fa-check"></i><b>5.9</b> Correlation, causation and forecasting</a></li>
+<li class="chapter" data-level="5.10" data-path="regression-exercises.html"><a href="https://otexts.com/fpp2/regression-exercises.html"><i class="fa fa-check"></i><b>5.10</b> Exercises</a></li>
+<li class="chapter" data-level="5.11" data-path="regression-reading.html"><a href="https://otexts.com/fpp2/regression-reading.html"><i class="fa fa-check"></i><b>5.11</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="decomposition.html"><a href="https://otexts.com/fpp2/decomposition.html"><i class="fa fa-check"></i><b>6</b> Time series decomposition</a><ul>
+<li class="chapter" data-level="6.1" data-path="components.html"><a href="https://otexts.com/fpp2/components.html"><i class="fa fa-check"></i><b>6.1</b> Time series components</a></li>
+<li class="chapter" data-level="6.2" data-path="moving-averages.html"><a href="https://otexts.com/fpp2/moving-averages.html"><i class="fa fa-check"></i><b>6.2</b> Moving averages</a></li>
+<li class="chapter" data-level="6.3" data-path="classical-decomposition.html"><a href="https://otexts.com/fpp2/classical-decomposition.html"><i class="fa fa-check"></i><b>6.3</b> Classical decomposition</a></li>
+<li class="chapter" data-level="6.4" data-path="x11.html"><a href="https://otexts.com/fpp2/x11.html"><i class="fa fa-check"></i><b>6.4</b> X11 decomposition</a></li>
+<li class="chapter" data-level="6.5" data-path="seats.html"><a href="https://otexts.com/fpp2/seats.html"><i class="fa fa-check"></i><b>6.5</b> SEATS decomposition</a></li>
+<li class="chapter" data-level="6.6" data-path="stl.html"><a href="https://otexts.com/fpp2/stl.html"><i class="fa fa-check"></i><b>6.6</b> STL decomposition</a></li>
+<li class="chapter" data-level="6.7" data-path="seasonal-strength.html"><a href="https://otexts.com/fpp2/seasonal-strength.html" title="6.7 Measuring strength of trend and seasonality"><i class="fa fa-check"></i><b>6.7</b> Measuring strength of trend and seasonality</a></li>
+<li class="chapter" data-level="6.8" data-path="forecasting-decomposition.html"><a href="https://otexts.com/fpp2/forecasting-decomposition.html"><i class="fa fa-check"></i><b>6.8</b> Forecasting with decomposition</a></li>
+<li class="chapter" data-level="6.9" data-path="decomposition-exercises.html"><a href="https://otexts.com/fpp2/decomposition-exercises.html"><i class="fa fa-check"></i><b>6.9</b> Exercises</a></li>
+<li class="chapter" data-level="6.10" data-path="decomposition-reading.html"><a href="https://otexts.com/fpp2/decomposition-reading.html"><i class="fa fa-check"></i><b>6.10</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="expsmooth.html"><a href="https://otexts.com/fpp2/expsmooth.html"><i class="fa fa-check"></i><b>7</b> Exponential smoothing</a><ul>
+<li class="chapter" data-level="7.1" data-path="ses.html"><a href="https://otexts.com/fpp2/ses.html"><i class="fa fa-check"></i><b>7.1</b> Simple exponential smoothing</a></li>
+<li class="chapter" data-level="7.2" data-path="holt.html"><a href="https://otexts.com/fpp2/holt.html"><i class="fa fa-check"></i><b>7.2</b> Trend methods</a></li>
+<li class="chapter" data-level="7.3" data-path="holt-winters.html"><a href="https://otexts.com/fpp2/holt-winters.html"><i class="fa fa-check"></i><b>7.3</b> Holt-Winters’ seasonal method</a></li>
+<li class="chapter" data-level="7.4" data-path="taxonomy.html"><a href="https://otexts.com/fpp2/taxonomy.html" title="7.4 A taxonomy of exponential smoothing methods"><i class="fa fa-check"></i><b>7.4</b> A taxonomy of exponential smoothing methods</a></li>
+<li class="chapter" data-level="7.5" data-path="ets.html"><a href="https://otexts.com/fpp2/ets.html" title="7.5 Innovations state space models for exponential smoothing"><i class="fa fa-check"></i><b>7.5</b> Innovations state space models for exponential smoothing</a></li>
+<li class="chapter" data-level="7.6" data-path="estimation-and-model-selection.html"><a href="https://otexts.com/fpp2/estimation-and-model-selection.html"><i class="fa fa-check"></i><b>7.6</b> Estimation and model selection</a></li>
+<li class="chapter" data-level="7.7" data-path="ets-forecasting.html"><a href="https://otexts.com/fpp2/ets-forecasting.html"><i class="fa fa-check"></i><b>7.7</b> Forecasting with ETS models</a></li>
+<li class="chapter" data-level="7.8" data-path="expsmooth-exercises.html"><a href="https://otexts.com/fpp2/expsmooth-exercises.html"><i class="fa fa-check"></i><b>7.8</b> Exercises</a></li>
+<li class="chapter" data-level="7.9" data-path="expsmooth-reading.html"><a href="https://otexts.com/fpp2/expsmooth-reading.html"><i class="fa fa-check"></i><b>7.9</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="arima.html"><a href="https://otexts.com/fpp2/arima.html"><i class="fa fa-check"></i><b>8</b> ARIMA models</a><ul>
+<li class="chapter" data-level="8.1" data-path="stationarity.html"><a href="https://otexts.com/fpp2/stationarity.html"><i class="fa fa-check"></i><b>8.1</b> Stationarity and differencing</a></li>
+<li class="chapter" data-level="8.2" data-path="backshift.html"><a href="https://otexts.com/fpp2/backshift.html"><i class="fa fa-check"></i><b>8.2</b> Backshift notation</a></li>
+<li class="chapter" data-level="8.3" data-path="AR.html"><a href="https://otexts.com/fpp2/AR.html"><i class="fa fa-check"></i><b>8.3</b> Autoregressive models</a></li>
+<li class="chapter" data-level="8.4" data-path="MA.html"><a href="https://otexts.com/fpp2/MA.html"><i class="fa fa-check"></i><b>8.4</b> Moving average models</a></li>
+<li class="chapter" data-level="8.5" data-path="non-seasonal-arima.html"><a href="https://otexts.com/fpp2/non-seasonal-arima.html"><i class="fa fa-check"></i><b>8.5</b> Non-seasonal ARIMA models</a></li>
+<li class="chapter" data-level="8.6" data-path="arima-estimation.html"><a href="https://otexts.com/fpp2/arima-estimation.html"><i class="fa fa-check"></i><b>8.6</b> Estimation and order selection</a></li>
+<li class="chapter" data-level="8.7" data-path="arima-r.html"><a href="https://otexts.com/fpp2/arima-r.html"><i class="fa fa-check"></i><b>8.7</b> ARIMA modelling in R</a></li>
+<li class="chapter" data-level="8.8" data-path="arima-forecasting.html"><a href="https://otexts.com/fpp2/arima-forecasting.html"><i class="fa fa-check"></i><b>8.8</b> Forecasting</a></li>
+<li class="chapter" data-level="8.9" data-path="seasonal-arima.html"><a href="https://otexts.com/fpp2/seasonal-arima.html"><i class="fa fa-check"></i><b>8.9</b> Seasonal ARIMA models</a></li>
+<li class="chapter" data-level="8.10" data-path="arima-ets.html"><a href="https://otexts.com/fpp2/arima-ets.html"><i class="fa fa-check"></i><b>8.10</b> ARIMA vs ETS</a></li>
+<li class="chapter" data-level="8.11" data-path="arima-exercises.html"><a href="https://otexts.com/fpp2/arima-exercises.html"><i class="fa fa-check"></i><b>8.11</b> Exercises</a></li>
+<li class="chapter" data-level="8.12" data-path="arima-reading.html"><a href="https://otexts.com/fpp2/arima-reading.html"><i class="fa fa-check"></i><b>8.12</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="dynamic.html"><a href="https://otexts.com/fpp2/dynamic.html"><i class="fa fa-check"></i><b>9</b> Dynamic regression models</a><ul>
+<li class="chapter" data-level="9.1" data-path="estimation.html"><a href="https://otexts.com/fpp2/estimation.html"><i class="fa fa-check"></i><b>9.1</b> Estimation</a></li>
+<li class="chapter" data-level="9.2" data-path="regarima.html"><a href="https://otexts.com/fpp2/regarima.html"><i class="fa fa-check"></i><b>9.2</b> Regression with ARIMA errors in R</a></li>
+<li class="chapter" data-level="9.3" data-path="forecasting.html"><a href="https://otexts.com/fpp2/forecasting.html"><i class="fa fa-check"></i><b>9.3</b> Forecasting</a></li>
+<li class="chapter" data-level="9.4" data-path="stochastic-and-deterministic-trends.html"><a href="https://otexts.com/fpp2/stochastic-and-deterministic-trends.html"><i class="fa fa-check"></i><b>9.4</b> Stochastic and deterministic trends</a></li>
+<li class="chapter" data-level="9.5" data-path="dhr.html"><a href="https://otexts.com/fpp2/dhr.html"><i class="fa fa-check"></i><b>9.5</b> Dynamic harmonic regression</a></li>
+<li class="chapter" data-level="9.6" data-path="lagged-predictors.html"><a href="https://otexts.com/fpp2/lagged-predictors.html"><i class="fa fa-check"></i><b>9.6</b> Lagged predictors</a></li>
+<li class="chapter" data-level="9.7" data-path="dynamic-exercises.html"><a href="https://otexts.com/fpp2/dynamic-exercises.html"><i class="fa fa-check"></i><b>9.7</b> Exercises</a></li>
+<li class="chapter" data-level="9.8" data-path="dynamic-reading.html"><a href="https://otexts.com/fpp2/dynamic-reading.html"><i class="fa fa-check"></i><b>9.8</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="hierarchical.html"><a href="https://otexts.com/fpp2/hierarchical.html" title="10 Forecasting hierarchical or grouped time series"><i class="fa fa-check"></i><b>10</b> Forecasting hierarchical or grouped&nbsp;time series</a><ul>
+<li class="chapter" data-level="10.1" data-path="hts.html"><a href="https://otexts.com/fpp2/hts.html"><i class="fa fa-check"></i><b>10.1</b> Hierarchical time series</a></li>
+<li class="chapter" data-level="10.2" data-path="gts.html"><a href="https://otexts.com/fpp2/gts.html"><i class="fa fa-check"></i><b>10.2</b> Grouped time series</a></li>
+<li class="chapter" data-level="10.3" data-path="bottom-up.html"><a href="https://otexts.com/fpp2/bottom-up.html"><i class="fa fa-check"></i><b>10.3</b> The bottom-up approach</a></li>
+<li class="chapter" data-level="10.4" data-path="top-down.html"><a href="https://otexts.com/fpp2/top-down.html"><i class="fa fa-check"></i><b>10.4</b> Top-down approaches</a></li>
+<li class="chapter" data-level="10.5" data-path="middle-out.html"><a href="https://otexts.com/fpp2/middle-out.html"><i class="fa fa-check"></i><b>10.5</b> Middle-out approach</a></li>
+<li class="chapter" data-level="10.6" data-path="mapping-matrices.html"><a href="https://otexts.com/fpp2/mapping-matrices.html"><i class="fa fa-check"></i><b>10.6</b> Mapping matrices</a></li>
+<li class="chapter" data-level="10.7" data-path="reconciliation.html"><a href="https://otexts.com/fpp2/reconciliation.html" title="10.7 The optimal reconciliation approach"><i class="fa fa-check"></i><b>10.7</b> The optimal reconciliation approach</a></li>
+<li class="chapter" data-level="10.8" data-path="hierarchical-exercises.html"><a href="https://otexts.com/fpp2/hierarchical-exercises.html"><i class="fa fa-check"></i><b>10.8</b> Exercises</a></li>
+<li class="chapter" data-level="10.9" data-path="hierarchical-reading.html"><a href="https://otexts.com/fpp2/hierarchical-reading.html"><i class="fa fa-check"></i><b>10.9</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="11" data-path="advanced.html"><a href="https://otexts.com/fpp2/advanced.html"><i class="fa fa-check"></i><b>11</b> Advanced forecasting methods</a><ul>
+<li class="chapter" data-level="11.1" data-path="complexseasonality.html"><a href="https://otexts.com/fpp2/complexseasonality.html"><i class="fa fa-check"></i><b>11.1</b> Complex seasonality</a></li>
+<li class="chapter" data-level="11.2" data-path="VAR.html"><a href="https://otexts.com/fpp2/VAR.html"><i class="fa fa-check"></i><b>11.2</b> Vector autoregressions</a></li>
+<li class="chapter" data-level="11.3" data-path="nnetar.html"><a href="https://otexts.com/fpp2/nnetar.html"><i class="fa fa-check"></i><b>11.3</b> Neural network models</a></li>
+<li class="chapter" data-level="11.4" data-path="bootstrap.html"><a href="https://otexts.com/fpp2/bootstrap.html"><i class="fa fa-check"></i><b>11.4</b> Bootstrapping and bagging</a></li>
+<li class="chapter" data-level="11.5" data-path="advanced-exercises.html"><a href="https://otexts.com/fpp2/advanced-exercises.html"><i class="fa fa-check"></i><b>11.5</b> Exercises</a></li>
+<li class="chapter" data-level="11.6" data-path="advanced-reading.html"><a href="https://otexts.com/fpp2/advanced-reading.html"><i class="fa fa-check"></i><b>11.6</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="12" data-path="practical.html"><a href="https://otexts.com/fpp2/practical.html"><i class="fa fa-check"></i><b>12</b> Some practical forecasting issues</a><ul>
+<li class="chapter" data-level="12.1" data-path="weekly.html"><a href="https://otexts.com/fpp2/weekly.html"><i class="fa fa-check"></i><b>12.1</b> Weekly, daily and sub-daily data</a></li>
+<li class="chapter" data-level="12.2" data-path="counts.html"><a href="https://otexts.com/fpp2/counts.html"><i class="fa fa-check"></i><b>12.2</b> Time series of counts</a></li>
+<li class="chapter" data-level="12.3" data-path="limits.html"><a href="https://otexts.com/fpp2/limits.html" title="12.3 Ensuring forecasts stay within limits"><i class="fa fa-check"></i><b>12.3</b> Ensuring forecasts stay within limits</a></li>
+<li class="chapter" data-level="12.4" data-path="combinations.html"><a href="https://otexts.com/fpp2/combinations.html"><i class="fa fa-check"></i><b>12.4</b> Forecast combinations</a></li>
+<li class="chapter" data-level="12.5" data-path="aggregates.html"><a href="https://otexts.com/fpp2/aggregates.html"><i class="fa fa-check"></i><b>12.5</b> Prediction intervals for aggregates</a></li>
+<li class="chapter" data-level="12.6" data-path="backcasting.html"><a href="https://otexts.com/fpp2/backcasting.html"><i class="fa fa-check"></i><b>12.6</b> Backcasting</a></li>
+<li class="chapter" data-level="12.7" data-path="long-short-ts.html"><a href="https://otexts.com/fpp2/long-short-ts.html" title="12.7 Very long and very short time series"><i class="fa fa-check"></i><b>12.7</b> Very long and very short time series</a></li>
+<li class="chapter" data-level="12.8" data-path="forecasting-on-training-and-test-sets.html"><a href="https://otexts.com/fpp2/forecasting-on-training-and-test-sets.html" title="12.8 Forecasting on training and test sets"><i class="fa fa-check"></i><b>12.8</b> Forecasting on training and test sets</a></li>
+<li class="chapter" data-level="12.9" data-path="missing-outliers.html"><a href="https://otexts.com/fpp2/missing-outliers.html" title="12.9 Dealing with missing values and outliers"><i class="fa fa-check"></i><b>12.9</b> Dealing with missing values and outliers</a></li>
+<li class="chapter" data-level="12.10" data-path="further-reading.html"><a href="https://otexts.com/fpp2/further-reading.html"><i class="fa fa-check"></i><b>12.10</b> Further reading</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="appendix-using-r.html"><a href="https://otexts.com/fpp2/appendix-using-r.html"><i class="fa fa-check"></i>Appendix: Using R</a></li>
+<li class="chapter" data-level="" data-path="appendix-for-instructors.html"><a href="https://otexts.com/fpp2/appendix-for-instructors.html"><i class="fa fa-check"></i>Appendix: For instructors</a></li>
+<li class="chapter" data-level="" data-path="appendix-reviews.html"><a href="https://otexts.com/fpp2/appendix-reviews.html"><i class="fa fa-check"></i>Appendix: Reviews</a></li>
+<li class="chapter" data-level="" data-path="translations.html"><a href="https://otexts.com/fpp2/translations.html"><i class="fa fa-check"></i>Translations</a></li>
+<li class="chapter" data-level="" data-path="about-the-authors.html"><a href="https://otexts.com/fpp2/about-the-authors.html"><i class="fa fa-check"></i>About the authors</a></li>
+<li class="chapter" data-level="" data-path="buy-a-print-or-downloadable-version.html"><a href="https://otexts.com/fpp2/buy-a-print-or-downloadable-version.html"><i class="fa fa-check"></i>Buy a print or downloadable version</a></li>
+<li class="chapter" data-level="" data-path="help.html"><a href="https://otexts.com/fpp2/help.html"><i class="fa fa-check"></i>Help</a></li>
+<li class="chapter" data-level="" data-path="bibliography.html"><a href="https://otexts.com/fpp2/bibliography.html"><i class="fa fa-check"></i>Bibliography</a></li>
+<li class="divider"></li>
+<li><a href="https://otexts.com/" target="blank">Published by OTexts™ with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body fixed">
+      <div class="body-inner">
+        <div class="book-header fixed" role="navigation" style="background-color: rgb(255, 255, 255);">
+          <a class="btn pull-left js-toolbar-action" aria-label="Toggle Sidebar" title="Toggle Sidebar" href="https://otexts.com/fpp2/basic-steps.html#"><i class="fa fa-align-justify"></i></a><a class="btn pull-left js-toolbar-action" aria-label="Search" title="Search" href="https://otexts.com/fpp2/basic-steps.html#"><i class="fa fa-search"></i></a><div class="dropdown pull-right  js-toolbar-action"><a class="btn toggle-dropdown" aria-label="Share" title="Share" href="https://otexts.com/fpp2/basic-steps.html#"><i class="fa fa-share-alt"></i></a><div class="dropdown-menu dropdown-left"><div class="dropdown-caret"><span class="caret-outer"></span><span class="caret-inner"></span></div><div class="buttons"><button class="button size-5 ">Facebook</button><button class="button size-5 ">Twitter</button><button class="button size-5 ">LinkedIn</button><button class="button size-5 ">Weibo</button><button class="button size-5 ">Instapaper</button></div></div></div><a class="btn pull-right js-toolbar-action" aria-label="Facebook" title="Facebook" href="https://otexts.com/fpp2/basic-steps.html#"><i class="fa fa-facebook"></i></a><a class="btn pull-right js-toolbar-action" aria-label="Twitter" title="Twitter" href="https://otexts.com/fpp2/basic-steps.html#"><i class="fa fa-twitter"></i></a><div class="dropdown pull-left font-settings js-toolbar-action"><a class="btn toggle-dropdown" aria-label="Font Settings" title="Font Settings" href="https://otexts.com/fpp2/basic-steps.html#"><i class="fa fa-font"></i></a><div class="dropdown-menu dropdown-right"><div class="dropdown-caret"><span class="caret-outer"></span><span class="caret-inner"></span></div><div class="buttons"><button class="button size-2 font-reduce">A</button><button class="button size-2 font-enlarge">A</button></div><div class="buttons"><button class="button size-2 ">Serif</button><button class="button size-2 ">Sans</button></div><div class="buttons"><button class="button size-3 ">White</button><button class="button size-3 ">Sepia</button><button class="button size-3 ">Night</button></div></div></div><a class="btn pull-left js-toolbar-action" aria-label="Information about the toolbar" title="Information about the toolbar" href="https://otexts.com/fpp2/basic-steps.html#"><i class="fa fa-info"></i></a><h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="https://otexts.com/fpp2/">Forecasting: Principles&nbsp;and&nbsp;Practice</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="basic-steps" class="section level2">
+<h2><span class="header-section-number">1.6</span> The basic steps in a forecasting task</h2>
+<p>A forecasting task usually involves five basic steps.</p>
+<dl>
+<dt>Step 1: Problem definition.</dt>
+<dd>Often this is the most difficult part of forecasting. Defining the problem carefully requires an understanding of the way the forecasts will be used, who requires the forecasts, and how the forecasting function fits within the organisation requiring the forecasts. A forecaster needs to spend time talking to everyone who will be involved in collecting data, maintaining databases, and using the forecasts for future planning.
+</dd>
+<dt>Step 2: Gathering information.</dt>
+<dd>There are always at least two kinds of information required: (a) statistical data, and (b) the accumulated expertise of the people who collect the data and use the forecasts. Often, it will be difficult to obtain enough historical data to be able to fit a good statistical model. In that case, the judgmental forecasting methods of Chapter <a href="https://otexts.com/fpp2/judgmental.html#judgmental">4</a> can be used. Occasionally, old data will be less useful due to structural changes in the system being forecast; then we may choose to use only the most recent data. However, remember that good statistical models will handle evolutionary changes in the system; don’t throw away good data unnecessarily.
+</dd>
+<dt>Step 3: Preliminary (exploratory) analysis.</dt>
+<dd>Always start by graphing the data. Are there consistent patterns? Is there a significant trend? Is seasonality important? Is there evidence of the presence of business cycles? Are there any outliers in the data that need to be explained by those with expert knowledge? How strong are the relationships among the variables available for analysis? Various tools have been developed to help with this analysis. These are discussed in Chapters&nbsp;<a href="https://otexts.com/fpp2/graphics.html#graphics">2</a> and <a href="https://otexts.com/fpp2/decomposition.html#decomposition">6</a>.
+</dd>
+<dt>Step 4: Choosing and fitting models.</dt>
+<dd>The best model to use depends on the availability of historical data, the strength of relationships between the forecast variable and any explanatory variables, and the way in which the forecasts are to be used. It is common to compare two or three potential models. Each model is itself an artificial construct that is based on a set of assumptions (explicit and implicit) and usually involves one or more parameters which must be estimated using the known historical data. We will discuss regression models (Chapter <a href="https://otexts.com/fpp2/regression.html#regression">5</a>), exponential smoothing methods (Chapter&nbsp;<a href="https://otexts.com/fpp2/expsmooth.html#expsmooth">7</a>), Box-Jenkins ARIMA models (Chapter&nbsp;<a href="https://otexts.com/fpp2/arima.html#arima">8</a>), Dynamic regression models (Chapter <a href="https://otexts.com/fpp2/dynamic.html#dynamic">9</a>), Hierarchical forecasting (Chapter <a href="https://otexts.com/fpp2/hierarchical.html#hierarchical">10</a>), and several advanced methods including neural networks and vector autoregression in Chapter&nbsp;<a href="https://otexts.com/fpp2/advanced.html#advanced">11</a>.
+</dd>
+<dt>Step 5: Using and evaluating a forecasting model.</dt>
+<dd>Once a model has been selected and its parameters estimated, the model is used to make forecasts. The performance of the model can only be properly evaluated after the data for the forecast period have become available. A number of methods have been developed to help in assessing the accuracy of forecasts. There are also organisational issues in using and acting on the forecasts. A brief discussion of some of these issues is given in Chapter&nbsp;<a href="https://otexts.com/fpp2/toolbox.html#toolbox">3</a>. When using a forecasting model in practice, numerous practical issues arise such as how to handle missing values and outliers, or how to deal with short time series. These are discussed in Chapter <a href="https://otexts.com/fpp2/practical.html#practical">12</a>.
+</dd>
+</dl>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="https://otexts.com/fpp2/case-studies.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="https://otexts.com/fpp2/perspective.html" class="navigation navigation-next " aria-label="Next page" style="margin-right: 0px;"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/app.min.js.download"></script>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/lunr.js.download"></script>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/clipboard.min.js.download"></script>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-search.js.download"></script>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-sharing.js.download"></script>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-fontsettings.js.download"></script>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-bookdown.js.download"></script>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/jquery.highlight.js.download"></script>
+<script src="./1.6 The basic steps in a forecasting task _ Forecasting_ Principles and Practice_files/plugin-clipboard.js.download"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+
+
+</body></html>

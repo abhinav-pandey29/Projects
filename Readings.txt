@@ -1,0 +1,8 @@
+EDA :
+1. How to Use Statistics to Identify Outliers in Data by Jason Brownless (Machine Learning Mastery blog)
+
+2. StatQuest: t-SNE, Clearly Explained by Joshua Starmer
+
+
+Modelling References - 
+1. https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
