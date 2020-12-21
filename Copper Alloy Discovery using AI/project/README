@@ -1,6 +1,24 @@
 PROJECT TITLE: 
 Machine Learning Assisted Discovery of High Performing Copper Alloys
 
+-----------------------------------------------------------------------------------
+Author
+-----------------------------------------------------------------------------------
+Abhinav Pandey
+Australian National University
+
+E-mail : abhinav_pandey29@yahoo.com
+LinkedIn : https://www.linkedin.com/in/abhinavpandeynotfound/
+
+-----------------------------------------------------------------------------------
+Acknowledgements
+-----------------------------------------------------------------------------------
+Supervisor - Prof. Nick Birbilis (Deputy Dean, College of Engineering and Computer Science @Australian National University)
+Team Member - 1. Venkata Prakash
+
+-----------------------------------------------------------------------------------
+
+
 MOTIVATION:
 Copper and copper alloys are some of the most versatile engineering materials available. Currently, there exist more than 400 copper alloys, each with a unique combination of highly desirable properties such as high tensile strength, conductivity (thermal and electrical), ductility, corrosion resistance and more. These properties can be further enhanced with variations in composition and manufacturing processes
 Unfortunately, the process of discovering new alloys is a tedious and expensive task. It relies largely on a combination of trial and error, expert judgment, and intuition. Consequently, the current practices are slow and unpredictable.
@@ -56,24 +74,4 @@ Physical Property -
 a. Press 1 for Tensile Strength and 2 for Thermal Conductivity.
 b. The desired value of the chosen property. The package has been extensively tested and demonstrates effective predictive abilities for values in the range of 10 to 220. The system provides reliable results for values in this range. This is is a DISCLAIMER which is not intended to undermine the ability of the software, but rather inform the user of the extent of its evaluation.
 c. (Optional) Choosing the number of candidate copper alloys.
------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------
-
-Acknowledgements
------------------------------------------------------------------------------------
-Supervisor - Prof. Nick Birbilis (Deputy Dean, College of Engineering and Computer Science @Australian National University)
-Team Member - 1. Venkata Prakash
------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------
-
-Author
------------------------------------------------------------------------------------
-Abhinav Pandey
-Australian National University
-
-E-mail : abhinav_pandey29@yahoo.com
-LinkedIn : https://www.linkedin.com/in/abhinavpandeynotfound/
------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
