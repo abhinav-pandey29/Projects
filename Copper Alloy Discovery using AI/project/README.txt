@@ -1,0 +1,66 @@
+-----------------------------------------------------------------------------------
+
+Project Title
+-----------------------------------------------------------------------------------
+Copper Alloy Generator for a given value of Tensile Strength or Thermal Conductivity.
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+Description
+-----------------------------------------------------------------------------------
+"InverseModel.py" takes desired value of Tensile Strength or Thermal Conductivity as input. 
+ 
+It returns a comma-seperated values (csv) file called results.py containing the percentage composition by mass) of copper alloys that can be good potential candidates and others which are already known to have those values. 
+
+Careful! If the program is run in the same directory without renaming the results file, it will unfortunately be overwritten by the results of the new query.
+
+The composition columns are named as the chemical symbols of elements (as present in the periodic table). We also provide a score to each alloy viz. 'Confidence Percentage' which accounts for the possibility of error for a given alloy. 100% confidence is given to those copper alloys who's properties are already known. 
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+Getting Started/Instructions
+-----------------------------------------------------------------------------------
+Open the Terminal/Command Prompt in the Project directory. Run the program using the following syntax:
+
+	python InverseModel.py
+
+You will be prompted to provide the following inputs :
+
+Physical Property - 
+a. Press 1 for Tensile Strength and 2 for Thermal Conductivity.
+b. The desired value of the chosen property. The package has been extensively tested and demonstrates effective predictive abilities for values in the range of 10 to 220. The system provides reliable results for values in this range. This is is a DISCLAIMER which is not intended to undermine the ability of the software, but rather inform the user of the extent of its evaluation.
+c. (Optional) Choosing the number of candidate copper alloys.
+
+
+-----------------------------------------------------------------------------------
+
+Requirements
+-----------------------------------------------------------------------------------
+The project uses the following python modules
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+Acknowledgements
+-----------------------------------------------------------------------------------
+Supervisor - Prof. Nick Birbilis (Australian National University)
+Team Member - Venkata Prakash 
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+Author
+-----------------------------------------------------------------------------------
+Abhinav Pandey
+Australian National University
+
+E-mail : abhinav_pandey29@yahoo.com
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
