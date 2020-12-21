@@ -1,0 +1,77 @@
+PROJECT TITLE: 
+Machine Learning Assisted Discovery of High Performing Copper Alloys
+
+-----------------------------------------------------------------------------------
+Author
+-----------------------------------------------------------------------------------
+Abhinav Pandey
+Australian National University
+
+E-mail : abhinav_pandey29@yahoo.com
+LinkedIn : https://www.linkedin.com/in/abhinavpandeynotfound/
+
+-----------------------------------------------------------------------------------
+Acknowledgements
+-----------------------------------------------------------------------------------
+Supervisor - Prof. Nick Birbilis (Deputy Dean, College of Engineering and Computer Science @Australian National University)
+Team Member - 1. Venkata Prakash
+
+-----------------------------------------------------------------------------------
+
+
+MOTIVATION:
+Copper and copper alloys are some of the most versatile engineering materials available. Currently, there exist more than 400 copper alloys, each with a unique combination of highly desirable properties such as high tensile strength, conductivity (thermal and electrical), ductility, corrosion resistance and more. These properties can be further enhanced with variations in composition and manufacturing processes
+Unfortunately, the process of discovering new alloys is a tedious and expensive task. It relies largely on a combination of trial and error, expert judgment, and intuition. Consequently, the current practices are slow and unpredictable.
+So, there is a NEED to do better. The question, however, is CAN we?
+
+OVERVIEW:
+In this project, I propose an alloy design system that utilizes machine learning to obtain multi-element copper alloy compositions and processing conditions for a desired value of either Tensile Strength or Thermal Conductivity.
+The development of the proposed system can be broadly divided into two broad processes – 
+
+A.	Predictive Modelling -
+Two distinct Random Forest models, one for tensile strength and one for thermal conductivity predictions, are built to learn the relationship between tensile strength/thermal conductivity and the corresponding alloy compositions and processing conditions, using samples obtained from multiple sources including public databases and educational packages. 
+
+B.	Composition Generation -
+The models obtained in the previous step are used to generate candidate alloy compositions (and processing conditions in the case of tensile strength) for a user-defined value of either of the relevant properties. This is done by making property predictions on a synthetically generated composition sample space using combinations of existing alloy compositions. 
+
+MODEL PERFORMANCEs:
+The following two figures can be used as an estimate of the models’ predictive performance. The motivation behind providing the scatterplots below is to demonstrate the proximity of the Actual values of Tensile Strength/Thermal Conductivity of alloys and their respective Predicted values (made by the trained models) on a hold-out (test) set.  
+The closer the points are to the diagonal line, the better is the predictive capacity.
+If you are interested in a more extensive analysis of the results, contact me via email here - abhinav_pandey29@yahoo.com (Include repo title in the email subject). Alternatively, you can read the report for the project here.
+
+DATA SOURCE
+The copper alloy compositions and their physical properties were collected manually from the Official Site of Copper Development Association, Inc. (USA)
+According to their website - “The Copper Development Association Inc. is a market development, engineering, and information services arm of the copper industry, chartered to enhance and expand markets for copper and its alloys in North America.”
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
+				USING THE CODE
+-----------------------------------------------------------------------------------
+
+Description
+-----------------------------------------------------------------------------------
+"InverseModel.py" takes desired value of Tensile Strength or Thermal Conductivity as input. 
+ 
+It returns a comma-seperated values (csv) file called results.py containing the percentage composition by mass) of copper alloys that can be good potential candidates and others which are already known to have those values. 
+
+Careful! If the program is run in the same directory without renaming the results file, it will unfortunately be overwritten by the results of the new query.
+
+The composition columns are named as the chemical symbols of elements (as present in the periodic table). We also provide a score to each alloy viz. 'Confidence Percentage' which accounts for the possibility of error for a given alloy. 100% confidence is given to those copper alloys who's properties are already known. 
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+
+Getting Started/Instructions
+-----------------------------------------------------------------------------------
+Open the Terminal/Command Prompt in the Project directory. Run the program using the following syntax:
+
+	python InverseModel.py
+
+You will be prompted to provide the following inputs :
+
+Physical Property - 
+a. Press 1 for Tensile Strength and 2 for Thermal Conductivity.
+b. The desired value of the chosen property. The package has been extensively tested and demonstrates effective predictive abilities for values in the range of 10 to 220. The system provides reliable results for values in this range. This is is a DISCLAIMER which is not intended to undermine the ability of the software, but rather inform the user of the extent of its evaluation.
+c. (Optional) Choosing the number of candidate copper alloys.
+-----------------------------------------------------------------------------------
