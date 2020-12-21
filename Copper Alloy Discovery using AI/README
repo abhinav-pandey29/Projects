@@ -40,12 +40,17 @@ The models obtained in the previous step are used to generate candidate alloy co
 
 * MODEL PERFORMANCES:
 The following two figures can be used as an estimate of the models’ predictive performance. The motivation behind providing the scatterplots below is to demonstrate the proximity of the Actual values of Tensile Strength/Thermal Conductivity of alloys and their respective Predicted values (made by the trained models) on a hold-out (test) set.  
+
 The closer the points are to the diagonal line, the better is the predictive capacity.
-If you are interested in a more extensive analysis of the results, contact me via email here - abhinav_pandey29@yahoo.com (Include repo title in the email subject). Alternatively, you can read the report for the project here.
+
+If you are interested in a more extensive analysis of the results, contact me via email here - abhinav_pandey29@yahoo.com (Include repo title in the email subject). 
+
+Alternatively, you can read the report for the project in the project folder.
 
 
 * DATA SOURCE
 The copper alloy compositions and their physical properties were collected manually from the Official Site of Copper Development Association, Inc. (USA)
+
 According to their website - “The Copper Development Association Inc. is a market development, engineering, and information services arm of the copper industry, chartered to enhance and expand markets for copper and its alloys in North America.”
 
 
