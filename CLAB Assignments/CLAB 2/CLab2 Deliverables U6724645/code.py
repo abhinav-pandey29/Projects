@@ -340,7 +340,7 @@ model_weights = normalised_training_images @ eigen_faces.T
 
 ######## TESTING CODE#########
 
-"""Returns a test_preds which contains 3 most similar images from training set to each test data"""
+"""Returns a list 'test_preds' which contains 3 most similar images from training set to each test data"""
 
 test_data_filepaths = glob.glob("testset/*")
 
