@@ -6,4 +6,6 @@ Eigenfaces refers to an appearance-based approach to face recognition that seeks
 
 Refer to **EigenFaces Report.pdf** (and **code.py**) for a step by step explanation of the process and take inspiration for your very own EigenFaces implementation!
 
-![Results](./data/Outputs/Test results.png)
+#### Following are the results of the first phase of training -
+
+![Results](https://github.com/abhinav-pandey29/Projects/blob/main/Face%20Recognition%20using%20EigenFaces/data/Outputs/Test%20results.png)
